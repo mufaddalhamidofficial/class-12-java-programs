@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EvilNum
+comment1.params=a
+comment1.target=java.lang.String\ decimalToBinary(int)
+comment2.params=binary
+comment2.target=boolean\ check(java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=incOrDecOrBouncy
+comment1.params=num
+comment1.target=boolean\ checkInc(int)
+comment2.params=num
+comment2.target=boolean\ checkDec(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
